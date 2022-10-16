@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chadimarek
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on Econometrics projects
+- 👀 I’m interested in Econometrics
+- 🌱 I’m currently learning R
 - 📫 chadimarek@gmail.com
 
 <!---
